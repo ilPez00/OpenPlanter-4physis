@@ -1,3 +1,5 @@
+> **Fork attribution.** This is a fork of [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter). At audit time this fork was 0 commits ahead of upstream. Original changes: see this fork's commit history. Upstream README follows.
+
 # OpenPlanter
 
 A recursive-language-model investigation agent with a desktop GUI and terminal interface. OpenPlanter ingests heterogeneous datasets — corporate registries, campaign finance records, lobbying disclosures, government contracts, and more — resolves entities across them, and surfaces non-obvious connections through evidence-backed analysis. It operates autonomously with file I/O, shell execution, web search, and recursive sub-agent delegation.
